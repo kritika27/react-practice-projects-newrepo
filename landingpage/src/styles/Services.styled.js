@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const Service=styled.section`
 height:100vh;
-background:yellow;
+background:#fff;
 border:1px solid red;
 ;`
 

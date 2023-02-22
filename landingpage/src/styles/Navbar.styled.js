@@ -10,7 +10,7 @@ align-items:center;
 ;`
 
 export const Logo=styled.h1`
-color:green;
+color:orange;
 font-weight:bold;
 ;`
 

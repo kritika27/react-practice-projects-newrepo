@@ -5,7 +5,7 @@ export const Services = () => {
   return (
     <Service>
 
-        <Header>Services</Header>
+        <Header>Featured Products</Header>
         <List>
 <Items>1</Items>
 <Items>2</Items>
