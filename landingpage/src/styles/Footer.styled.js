@@ -12,3 +12,4 @@ height:20vh;
 export const Icon=styled.div`
 margin:0px 10px;
 ;`
+
