@@ -62,3 +62,12 @@ h1{
 section{
   display: flex;
 }
+
+footer{
+  height:15vh;
+  background-color: #444;
+  color:#fff;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
